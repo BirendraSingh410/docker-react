@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to Docker Tutorial !!!
+          You have successfully merged feature branch to master !!!
         </p>
         <a
           className="App-link"
